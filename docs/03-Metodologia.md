@@ -1,87 +1,85 @@
 
 # Metodologia
-
+<ol>
+ 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Tendo como base o empirismo em seu a metodologia Scrum será adotada durante a elaboração deste projeto baseada nas primícias de transparência, inspeção e adaptação juntamente com as ferramentas do Githhub como ferramenta de Repositório e gestão de código, Visual Studio como ferramenta de apoio ao desenvolvimento, Invision como ferramenta de planejamento de interface e para a hospedagem do site escolhemos Heroku. Dentro da metodologia Scrum serão feitos sprits, com duração máxima de cinco dias para a entrega de cada etapa, para facilitar e agilizar a entrega do produto, fazendo assim que tenhamos uma avaliação periódica do sistema para possíveis alterações e melhorias nos Templates para atender a necessidade do cliente da melhor forma possível. Porem tais mudanças deve ser realizadas sem a necessidade de alterar o tempo de entrega do produto. 
 
 ## Relação de Ambientes de Trabalho
-
+<ol>
+ 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
 Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
-
+</ol>
+ 
 ## Controle de Versão
+<ol>
+ 
+A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório. O projeto segue a seguinte convenção para o nome de branchs:
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+  * master: versão estável já testada do software.
+  * unstable: versão já testada do software, porém instável.
+  * testing: versão em testes do software.
+  * dev: versão de desenvolvimento do software. Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
+  * documentation: melhorias ou acréscimos à documentação.
+  * bug: uma funcionalidade encontra-se com problemas.
+  * enhancement: uma funcionalidade precisa ser melhorada.
+  * feature: uma nova funcionalidade precisa ser introduzida.
+</ol>
 
-O projeto segue a seguinte convenção para o nome de branches:
+ ## Gerenciamento de Projeto
+ <ol>
+ 
+ Tendo como base para esse projeto o Manifesto Ágil, e após algumas deliberações achou-se justo e necessário empregar os princípios SCRUM de Controle Empírico do Processo (transparência, inspeção e adaptação), Auto-organização, Colaboração, Priorização baseada em valor, Time-boxing e Desenvolvimento Iterativo para as definições dos papéis analisando de forma a aproveitar a melhor qualidade de todos os membros da equipe SCRUM. “O modelo de time no Scrum é projetado para aperfeiçoar a flexibilidade, criatividade e produtividade. Times Scrum entregam produtos de forma iterativa e incremental, maximizando as oportunidades de realimentação. Entregas incrementais de produto “Pronto” garantem que uma versão potencialmente funcional do produto do trabalho esteja sempre disponível.” (SCHWABER e SUTHERLAND 2013 p. 5) 
+</ol>
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+ ### Divisão de Papéis
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+Usando essas primícias ficou definido a equipe está organizada da seguinte maneira:
+<ol>
+ 
+   Scrum Master: 
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+   Product Owner:
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+   Equipe de Desenvolvimento: 
 
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+   Equipe de Design: 
+</ol>
 
-## Gerenciamento de Projeto
-
-### Divisão de Papéis
-
-Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
 
 ### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+<ol>
  
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
+Todos os sprits do produto serão apresentados no backlog do Produto, aonde o time Scrum, aonde apresentará semanalmente as tarefas a serem ser concluída em cada etapa proposta, os membros do grupo responsável pela tarefa e a situação da mesma além de se ter a data limite de entrega a qual não deverá ser ultrapassada. Tal ferramenta se juga necessária para caso algum membro do time tenha alguma dificuldade ao realizar a tarefa a ele incumbida e acabe por atrasar o andamento do projeto, desta forma demais membros do time poderá auxiliar na tarefa se necessário. Além dessa função de auxiliar e gerenciar os membros do grupo, e possível visualizar as correções e melhorias a serem realizadas de forma dinâmica e eficaz, ficando definido da forma abaixo apresentado.
+ 
+ * <span style="color:red"><a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+ * <span style="color:red"><a href="02-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+ * <span style="color:red"><a href="03-Metodologia.md"> Metodologia</a></span>
+ * <span style="color:red"><a href="04-Projeto de Interface.md"> Projeto de Interface</a></span>
+ * <span style="color:red"><a href="05-Arquitetura de Solução.md"> Arquitetura de Solução</a></span>
+ * <span style="color:red"><a href="06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></span>
+ * <span style="color:red"><a href="07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></span>
+ * <span style="color:red"><a href="08-Plano de Testes de Software.md"> Plano de Testes de Software</a></span>
+ * <span style="color:red"><a href="09-Registro de Testes de Software.md"> Registro de Teste de Software</a></span>
+ * <span style="color:red"><a href="10-Plano Testes de Usabilidades.md"> Plano Teste de Usabilidades</a></span>
+ * <span style="color:red"><a href="11-Registro de testes de Usabilidades.md"> Registro de teste de Usabilidades</a></span>
+ * <span style="color:red"><a href="12-Apresentação do Projeto.md"> Apresentação do Projeto</a></span>
+</ol>
+ 
 ### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
+<ol>
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+As ferramentas que serão empregadas neste na elaboração do projeto serão:
+
+|Ambiente| Plataforma|	Link de Acesso|
+|--------|-----------|--------|
+|Repositório de código fonte	|GitHub|	https://github.com/rommelcarneiro/tiaw-template|
+|Documentos do projeto|	Google Drive|	https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24|
+|Ferramenta de apoio a o desenvolvimento|	Visual Studio|	https://visualstudio.microsoft.com/pt-br/services/github-codespaces/|
+|Projeto de Interface e Wireframes|	Marvel app|	https://marvelapp.com/project/5659252|
+|Gerenciamento do Projeto|	Trello	|https://trello.com/b/LupglzUz/tiaw-template|
+|Ferramenta de BD|	SQL	|https://www.microsoft.com/pt-br/sql-server/sql-server-2019|
+|Hospedagem Site|	Heroku|	https://www.heroku.com/|
+</ol>
+ </ol>
