@@ -63,13 +63,13 @@ Representação do processo de cadastro de serviços e  dos usuários.
 
 Representação do processo de feedback de serviços realizados.
 
-![Processo 2](img/bmpn-feedback.png)
+![Processo 3](img/bmpn-feedback.png)
  
  ### Processo 4 – Contratar prestação de serviços
 
 Representação do processo de contratação de serviços.
 
-![Processo 2](img/bmpn-bmpn-servicos.png)
+![Processo 4](img/bmpn-servicos.png)
 
 
 ## Indicadores de Desempenho
