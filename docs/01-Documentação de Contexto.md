@@ -1,46 +1,38 @@
 # Introdução
-
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+<ol>
+ 
+ Na sociedade atual o alto padrão de competitividade, faz com que as pessoas busquem por novas formas de divulgarem seus trabalhos, há inumera formas, mas a mais  utilizada são as redes sociais, que nos proporcionam diversas maneiras de realizar essa divulgação, porém as mesmas não focam no marketing profissional em si e sim nas formas de interações sociais. Segundo Philip Kotler Marketing é o processo social por meio do qual pessoas e grupos de pessoas obtêm aquilo que necessitam e que desejam com a criação, a oferta e a livre negociação de produtos e serviços de valor com outros. Sendo assim quando essa ferramenta é usada obtém-se o beneficio de dois lados: o do profissional que está em busca de oferecer seus serviços e dessa forma pode apresentá-los e do cliente que está em busca de um produto ou serviço e tem a oportunidade de conhecer suas opcões e o que elas tem a oferecer.
+</ol>
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+<ol>
+ 
+ No dia a dia a competividade no mercado de trabalho formal e informal, faz com que os profissionais de melhores reputações se sobressaiam a outros que não tem uma divulgação melhor, ficamos com isso o nicho de profissionais que muitas das vezes nem sempre nos atendem, mas por falta de conhecimento e opção contratamos. O desenvolvimento de uma forma de divulgação igualitária acessível, e justa acaba por ser necessário para que todos tenham uma mesma chance dentro do mercado, e com isso criando o crescimento profissional do indivíduo.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+</ol> 
 
 ## Objetivos
+<ol>
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Objetivo Geral
+<ol>
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+ O objetivo desse projeto consiste na criação de uma aplicação movél para auxiliar profissionais que estão em busca de divulgar seu trabalho de forma mais acessível e disponibilizar de forma clara e fácil esses serviços para os usuários que desejam contratar algum tipo de serviço.
+</ol>
+ 
+Objetivo Específico
+<ol>
 
+</ol>
+ 
 ## Justificativa
+<ol>
+“Somente ser um bom profissional, ou ter cursado uma boa universidade já não é mais suficiente para atender as demandas do mercado. É preciso se destacar e demonstrar demais valores, tais como o que pensa, sente ou comporta-se nas mais diversas situações.” (Lanzarin e Rosa, s/d. p. 02). Como relatado à cima, hoje em dia possuir um bom curso não é necessariamente sinônimo de uma grande carreira, demos a necessidade de criar uma boa estrutura de relacionamentos uma “rede social” solida, que nos permita a termos a capacidade de competir de forma justa, com outros profissionais na mesma área.
+ </ol>
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+<ol>
+ 
+Shimp (2009, p.39) afirma que a seleção do público dá início ao processo de comunicação, e o autor inclui esta determinação no chamado grupo de decisões fundamentais, evidenciando a importância da atividade para o desempenho do processo e uma etapa crítica para a elaboração de uma comunicação de marketing eficiente e eficaz (SHIMP, apud CRESCITELLI e GALÃO). É possível definir dentro de nosso processo, que nossos públicos alvos são profissionais de diversas idades e eixo social, que queiram divulgar seus talentos profissionais, de forma eficaz e simples utilizando de um portfólio, e de feedbacks de seus trabalhos e para aqueles que queiram contratar um profissional específico.
+</ol>
