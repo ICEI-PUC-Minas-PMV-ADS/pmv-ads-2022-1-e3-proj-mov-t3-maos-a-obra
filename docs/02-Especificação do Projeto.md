@@ -50,17 +50,18 @@ Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o 
 
 Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Login
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Representação do processo de login dos usuários.
 
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1](img//bpmn-login.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Cadastro
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+Representação do processo de cadastro de serviços e  dos usuários.
 
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo 2](img/bpmn-cadastro-atualizado.png)
+
 
 ## Indicadores de Desempenho
 
