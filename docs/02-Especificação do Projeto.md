@@ -65,11 +65,16 @@ Representação do processo de cadastro de serviços e  dos usuários.
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+Principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-Usar o seguinte modelo: 
+|Indicador|	Objetivos|	Descrição| Cálculo|	Fonte dados | Perspectiva|
+|---------|------------------------------------------------|--------------------------------------------------------------------|--------|--------|--------|
+|Cadastros de usuários|	Avaliar popularidade e aceitação do aplicativo |	 Medir a aceitação do aplicativo atráves da quantidade de cadastros de novos usuários  | Percentual de novos usuários  | Tabela de cadastro deusuários  | Clientes  |
+|Cadastros de serviços|	Avaliar aceitação do aplicativo entre os prestadores de serviços |	 Medir a aceitação do aplicativo atráves da quantidade de cadastros de novos prestadores de serviços  | Percentual de novos prestadores de serviço  | Tabela de cadastro de prestadores de serviços  | Clientes  |
+|Contratação de serviços|	Avaliar quantidades de serviços contratados |	 Medir a eficiência do aplicativo em divulgar os serviços  | Percentual de serviços contratados  | Tabela de feedback  | Processos Internos  |
+|Percentual de Reclações|	Avaliar quantidades de avaliações negativas da aplicação|	 Calcular a quantidade de avaliações negativas para o aplicativo por usuários  | Percentual de feedbacks negativos pelo total  | Dados da play store  | Processos Internos  |
+|Contagem de cadastro por data|	Avaliar quantidades de serviços e usuários cadastrados por data |	 Medir as datas com maiores adesões ao aplicativo | Contagem por data de cadastros de usuários e serviços | Tabela de cadastros  | Processos Internos  |
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
