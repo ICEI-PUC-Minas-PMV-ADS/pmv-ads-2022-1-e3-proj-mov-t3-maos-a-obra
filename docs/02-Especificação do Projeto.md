@@ -58,6 +58,12 @@ Representação do processo de login dos usuários.
 Representação do processo de cadastro de serviços e  dos usuários.
 
 ![Processo 2](img/bpmn-cadastro-atualizado.png)
+ 
+ ### Processo 3 – Feedback
+
+Representação do processo de feedback de serviços realizados.
+
+![Processo 2](img/bmpn-feedback.png)
 
 
 ## Indicadores de Desempenho
