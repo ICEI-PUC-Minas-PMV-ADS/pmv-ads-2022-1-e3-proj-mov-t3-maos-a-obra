@@ -8,37 +8,34 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Segundo Spandin e Quincoses (2015, p.02) o estudo da persona da marca como objeto de investigação aconteceu pela motivação de entender como o perfil das marcas teve que se adaptar às novas exigências dos consumidores. Percebe-se que as marcas utilizam das personas para se tornarem humanas e tentar um contato mais direto com os públicos. Com a criação da persona da marca, ela passa a ser representada e percebida pelos públicos de forma mais espontânea e informal. (Quincoses e Spandin 2015), entender as personas de um projeto acaba por criar uma ligação da parte formal do projeto com a parte pessoal do mesmo, dando a ele uma identidade sobre a qual o trabalho indagado irá criar uma personalidade. Após a criação de nosso público alvo as personas como sendo: 
+<ol>
+ 
+ *	Ricardo Souza, 53 anos, empresário, consultor empresarial, recém divorciado, pai de três filhos, morador de Belo Horizonte- MG, atualmente trabalha 15hs por dia, no período da pandemia, em sua nova vida de solteiro necessita de um profissional para reforma de seu “novo” apartamento, situado em uma área mais antiga da cidade. 
+  * Beatriz Menezes, 40 anos, professora universitária, casada, dois filhos, moradora de Nova Lima - Mg, trabalhava 12 horas por dia, com filhos e sua profissão e de seu marido, serviços básicos de manutenção de casa ficam em segundo plano, necessita de profissional de confiança, para que possa trabalhar enquanto o serviço seja realizado em sua casa. 
+ * Ângela Miranda, 25 anos, estudante de designer de ambiente, graduada em arquitetura, apesar da faculdade e dos cursos já realizados, não possui um portfolio muito expeço tendo como clientes apenas amigos e parentes, tem a necessidade de ampliar a gama de clientes e demonstrar seu. 
+* Marco Nascimento, pedreiro, 35 anos, casado, pai de um filho, mora de aluguel, residente em Belo Horizonte. Necessita de uma forma de apresentar seus serviços a seus clientes, que muitas das vezes não tem tempo para uma reunião mais prolongada. 
+* Francisco Dias, faz tudo, 49 anos, casado, sem filhos, apesar de ser um profissional antigo no mercado e com diversos clientes, não possui uma forma de divulgação de seu trabalho muito eficiente, a não ser o “Boca a Boca”, precisa de uma forma de divulgação de seus serviços mais eficaz.
+* Luiz Souza, Vendedor, 35 anos, solteiro, Sindico de prédio, o sr Luiz necessita de diversos profissionais de áreas distintas, porem não encontra profissionais qualificados ou de confiança para a realização dos serviços, acaba ficando a merecer de profissionais picaretas e mal preparados. 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+<ol>
+ 
+TABELA 01- Historia de Usuario
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                               |                           PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------------------------------------|-------------------------------------------------------------------|
+|Ricardo Souza       |Profissionais de reforma em geral                                 | [CU-001]- Acesso às informações publicas dos colaboradores|
+|Beatriz Menezes     |Profissional com boas recomendaçoe e de confiança                 | [CU-002]- Acesso a relatorios e avaliações pertinentes dos colaboradores|
+|Angela Miranda      |Divulgação de seu trabalho                                        | [CU-003]- criar galeria de fotos para a apresentação e divulgação dos serviços|
+|Marco Nascimento    |Apresentar os trabalho realizados de forma simple e eficiente     | [CU-004]- Criar um portifolio para melhor divulgar seu trabalho|
+|Francisco Dias      |Elabora uma melhor divulgação de seus serviços para novos clientes| [CU-005]- Criar relatorios de avaliação de serviços realizados|
+|Luiz Souza          |Bons profissionais de confiança                                   | [CU-002]- Acesso a relatorios e avaliações pertinentes dos colaboradores|
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+Fonte: Elaborado pelos autores (2022).
+</ol>
 
 ## Modelagem do Processo de Negócio 
 
@@ -71,9 +68,9 @@ Principais indicadores de desempenho e algumas metas para o processo. Atenção:
 |---------|------------------------------------------------|--------------------------------------------------------------------|--------|--------|--------|
 |Cadastros de usuários|	Avaliar popularidade e aceitação do aplicativo |	 Medir a aceitação do aplicativo atráves da quantidade de cadastros de novos usuários  | Percentual de novos usuários  | Tabela de cadastro deusuários  | Clientes  |
 |Cadastros de serviços|	Avaliar aceitação do aplicativo entre os prestadores de serviços |	 Medir a aceitação do aplicativo atráves da quantidade de cadastros de novos prestadores de serviços  | Percentual de novos prestadores de serviço  | Tabela de cadastro de prestadores de serviços  | Clientes  |
-|Contratação de serviços|	Avaliar quantidades de serviços contratados |	 Medir a eficiência do aplicativo em divulgar os serviços  | Percentual de serviços contratados  | Tabela de feedback  | Processos Internos  |
-|Percentual de Reclações|	Avaliar quantidades de avaliações negativas da aplicação|	 Calcular a quantidade de avaliações negativas para o aplicativo por usuários  | Percentual de feedbacks negativos pelo total  | Dados da play store  | Processos Internos  |
+|Percentual de Reclamações|	Avaliar quantidades de avaliações negativas da aplicação|	 Calcular a quantidade de avaliações negativas para o aplicativo por usuários  | Percentual de feedbacks negativos pelo total  | Dados da play store  | Processos Internos  |
 |Contagem de cadastro por data|	Avaliar quantidades de serviços e usuários cadastrados por data |	 Medir as datas com maiores adesões ao aplicativo | Contagem por data de cadastros de usuários e serviços | Tabela de cadastros  | Processos Internos  |
+|Contratação de serviços|	Avaliar quantidades de serviços contratados |	 Medir a eficiência do aplicativo em divulgar os serviços  | Percentual de serviços contratados  | Tabela de feedback  | Processos Internos  |
 
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
@@ -83,73 +80,112 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+<ol>
+
+ TABELA 02- Requistos funcionais 
+|ID|	Descrição do Requisito|	Prioridade|
+|------|--------------------------|--------|
+|      | Agente Fornecedor        |        |
+|RF-001|	Cadastrar conta          |	 ALTA  |
+|RF-002|	Login de conta           |	 ALTA  |
+|RF-003|	Alterar conta            |  ALTA  |
+|RF-004|	Excluir conta            | 	ALTA  |
+|RF-005|	Visualizar os seus dados | 	MÉDIA |
+|RF-006|	Visualizar feedback      | 	ALTA  |
+|RF-007|	Alterar dados            |	 ALTA  |
+|RF-008|	Excluir dados            | 	MÉDIA |
+|RF-009|	Cadastro de serviço      |  MÉDIA |
+|RF-010|	Cadastrar dados	         |  ALTA  |
+|      |                          |        |	
+|      |	Agente Empregador	       |        |
+|RF-001|	Cadastrar conta	         |  ALTA  |
+|RF-002|	Login de conta           |	 ALTA  |
+|RF-003|	Alterar conta	           |  ALTA  |
+|RF-004|	Excluir conta	           |  ALTA  |
+|RF-005|	Visualizar profissionais	| MÈDIA  |
+|RF-006| Realizar FeedBack        |  Alta  | 
+|RF-006| Visualizar FeedBack      |  Alta  | 
+
+ Fonte: Elaborado pelos autores (2022).
+</ol>
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+<ol>
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+ TABELA 03- Requisitos não funcionais
+ 
+|ID	Descrição do Requisito	|Prioridade|
+|--------------------------|----------|
+|RNF-001|	O sistema será construído através da arquitetura MVC| MÉDIA|
+|RNF-002|	O sistema deve ser capaz de apresentar uma boa usabilidade para Usuario| BAIXA|
+|RNF-003|	O sistema deve ser capaz de tratar exceções e se recuperar de falhas sem que haja perda de dados| BAIXA|
+|RNF-004|	O sistema vai utilizar "??" | ALTA|
+|RNF-005|	Será utilizada a ferramenta PhpmyAdmin para desenvolvimento e administração de base de dados|	ALTA|
+|RNF-006|	O sistema não pode demorar para processar|	ALTA|
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+ Fonte: Elaborado pelos autores (2022).
+ </ol>
 
 ## Restrições
 
+<ol>
+ 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+Tabela 4 – Restrições 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+|ID|	                      Restrição                          |
+|--|----------------------------------------------------------|
+|01|	O projeto deverá ser entregue até o final do semestre    |
+|02|	Não funciona sem rede de internet                        |
+|03|	Focado para Fornecedores e Empregadores de qualquer setor|
+|04|	Interação com o Fornecedor                               |
+|05|	Interação com o Empregador                               |
+|06|	Deverá ser gerenciável                                   |
+|07|	Deverá apresentar atualizações em tempo real             |
+ 
+Fonte: Elaborado pelos autores (2022).
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+</ol>
+ 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+<ol>
+ 
+![Caso de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/portifolio_serv/blob/main/docs/img/CASO%20DE%20USO.png)
+ </ol>
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+<ol>
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
+|Requisitos X Casos de uso         |CU-001 |CU-002 |CU-003 |CU-004 |CU-005 |       |
+|----------------------------------|-------|-------|-------|-------|-------|-------|
+|                                                  Agente Fornecedor               |					
+|RF-001 - Cadastrar conta          |       |       |       |       |       |     		|				
+|RF-002- Realizar login						      |       |       |       |       |       |       |
+|RF-003- Alterar conta						       |       |       |       |       |       |       |
+|RF-004- Excluir conta						       |       |       |       |       |       |       |
+|RF-005- Visualizar os seus dados  |       |       |   X   |   X   |   X   |       |
+|RF-006- Visualizar feedback 				  |       |       |       |       |       |       |
+|RF-007- Alterar dados						       |       |       |       |   X   |   X   |       |
+|RF-008- Excluir dados						       |       |       |       |       |       |       |
+|RF-009 Cadastro de serviço						  |       |       |   X   |   X   |   X   |       |
+|        					                     |       |       |       |       |       |       |
+|						                            |       |       |       |       |       |       |
+|						                            |       |       |       |       |       |       |
+|	                  				                          Agente Empregador                |
+|RF-001- Cadastrar conta						     |       |       |       |       |       |       |
+|RF-003- Alterar conta						       |       |       |       |       |       |       |
+|RF-004- Excluir conta						       |       |       |       |       |       |       |
+|RF-005- Visualizar profissionais		|   X   |       |       |       |       |       |
+|RF-006- Realizar feedback		       |       |   X   |       |       |       |       |
+|RF-007- Visualizar FeedBack       |  X    |   X   |       |       |       |       |
 
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
+Fonte: Elaborado pelos autores (2022).
 
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
+</ol>
 
 
 # Gerenciamento de Projeto
