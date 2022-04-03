@@ -22,7 +22,7 @@ Objetivo Geral
  
 Objetivo Específico
 <ol>
-
+A aplicação ser capaz de criar uma conta para o prestador de serviço divulgar seus serviços e também do usuário se cadastrar e vizualizar os serviços cadastros.
 </ol>
  
 ## Justificativa
