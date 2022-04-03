@@ -22,9 +22,14 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![Tela 01](img/tela01.PNG)
+![Tela 02](img/tela02.PNG)
+![Tela 03](img/tela03.PNG)
+![Tela 04](img/tela04.PNG)
+![Tela 05](img/tela05.PNG)
+![Tela 06](img/tela06.PNG)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+O protótipos pode ser vizualizado através do seguinte link: https://marvelapp.com/prototype/14hgg084/screen/79338696
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
