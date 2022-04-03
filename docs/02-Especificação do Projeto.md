@@ -40,12 +40,11 @@ Fonte: Elaborado pelos autores (2022).
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
-
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente vê-se uma dificuldade para encontrar serviços específicos e muitas vezes por falta de conhecimento de uma melhor formar de divulgação do seu trabalho por profissionais. Além disso, há também uma dificuldade de se encontrar referencias sobre os serviços, tendo assim uma maior assertividade e satisfação do cliente.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Uma possível solução para o problema relato acima é a criação de uma aplicação móvel que permita o cadastro desses serviços e viabilidade de comunicação entre o usuário a procura de um serviço e o prestador de serviço.
 
 ### Processo 1 – Login
 
