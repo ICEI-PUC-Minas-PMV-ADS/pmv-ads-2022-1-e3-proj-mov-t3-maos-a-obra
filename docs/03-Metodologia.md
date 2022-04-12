@@ -38,13 +38,13 @@ A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Gi
 Usando essas primícias ficou definido a equipe está organizada da seguinte maneira:
 <ol>
  
-   Scrum Master: 
+   Scrum Master: Thaina Luiza
 
-   Product Owner:
+   Product Owner: Diego Miranda
 
-   Equipe de Desenvolvimento: 
+   Equipe de Desenvolvimento: Emerson Rodrigues
 
-   Equipe de Design: 
+   Equipe de Design: Roberta Motta
 </ol>
 
 
