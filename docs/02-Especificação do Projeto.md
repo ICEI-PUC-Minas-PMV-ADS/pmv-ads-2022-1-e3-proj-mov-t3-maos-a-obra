@@ -221,6 +221,18 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+### **Tabela de Custos Previstos**
+ 
+|Tipo de Despesa	    |Nivel	| Dias projeto	   |V/H ou V/U	| Qnt|	H/Trab|	Total       |
+|--------------------|------|-----------------|-----------|----|-------|-------------|
+|Colaboradores	      |Alto	 | 110 tarbalhados	|R$ 33,33	  |4	  |440 hs	| R$ 29.330,40|
+|Equipamentos				    |Alto  |                 |R$ 2.300,00|3   |       | R$ 6.900,00 |		
+|Softwares de suporte|Alto  |                 |R$ 8.000,00|    |       | R$ 8.000,00 |					
+|Recusos Externos    |Medio |                 |R$ 3.500,00|    |       | R$ 3.500,00 |				
+|                    |      |                 |           |    |       |             |
+|Total               |      |                 |           |    |       | R$ 47.730,40|
+ 
+ Fonte: Elaborado pelos autores (2022).
 
-![Orçamento](img/02-orcamento.png)
+obs: o Custo estimado dos colaboradores, levará em conta que todos os colaboradores não estarão diretamente envolvidos em todas as etapas do projeto e por esse motivo os valores seram de acordo com o tempo de prestação de serviços dos mesmo.
+
