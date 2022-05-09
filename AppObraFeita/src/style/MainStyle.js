@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#dcdcdc',
+    
   },
   containerLogo: {
     flex: 1,
@@ -61,6 +61,66 @@ const styles = StyleSheet.create({
     fontSize: 16,
     width: '90%', 
   },
+   containerInicial:{
+    flex:1,
+  },
+  containerLogoInicial:{
+    flex:1,
+    justifyContent: 'center',
+    aligntitems: 'center',
+    marginTop: '10%'
+  },
+  containerForm:{
+    flex:2,
+    paddingStart: '5%',
+    paddingEnd: '5%',
+  },
+  title: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    marginBottom: '5',
+    paddingStart: '15%',
+    paddingEnd: '5%'
+    
+  },
+  text:{
+    fontSize: 24,
+    paddingStart: '10%',
+    paddingEnd: '5%',
+    marginTop: '8%'
+  },
+  button1:{
+    position: 'absolute',
+    backgroundColor: '#dcdcdc',
+    borderRadius: 20,
+    paddingVertical: 25,
+    paddingStart: '5%',
+    paddingEnd: '5%',
+    alignSelf: 'center',
+    bottom: '15%',
+    marginEnd: '5%',
+    marginStart: '5%',
+    fontWeight: 'bold', 
+  },
+
+  button2:{
+    position: 'absolute',
+    backgroundColor: '#dcdcdc',
+    borderRadius: 20,
+    paddingVertical: 25,
+    paddingStart: '5%',
+    paddingEnd: '5%',
+    alignSelf: 'center',
+    bottom: '35%',
+    marginEnd: '5%',
+    marginStart: '5%',
+    fontWeight: 'bold', 
+  },
+  buttonText: {
+    fontSize: 20,
+    color: '#000000',
+    fontWeight:"bold",
+  }
 });
 
 export default styles;

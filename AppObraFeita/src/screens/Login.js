@@ -10,16 +10,19 @@ import {
   Animated,
   Button,
 } from 'react-native';
+
 import styles from '../style/MainStyle';
+
+import {register} from '../services/auth.services'
 
 export default function Login({ navigation }) {
   const [email, setEmail] = useState(null);
-  const [senha, setSenha] = useState(null);
+  const [password, setPassword] = useState(null);
 
   const acessar = () => {
     navigation.reset({
       index: 0,
-      routes: [{ name: 'Principal' }],
+      routes: [{ name: 'Feed' }],
     });
   };
 
@@ -63,7 +66,7 @@ export default function Login({ navigation }) {
           placeholder="Senha"
           secureTextEntry={true}
           autoCorrect={false}
-          onChanceText={(value) => setSenha(value)}
+          onChanceText={(value) => setPassword(value)}
         />
 
         <TouchableOpacity style={styles.btnSubmit} onPress={() => acessar()}>
@@ -73,7 +76,8 @@ export default function Login({ navigation }) {
         <TouchableOpacity
           style={styles.btnRegister}
           onPress={() => cadastrar()}>
-          <Text style={styles.registerText}>Criar conta</Text>
+          <Text style={styles.registerText}>Cadastre-se</Text>
+          
         </TouchableOpacity>
       </Animated.View>
     </KeyboardAvoidingView>
