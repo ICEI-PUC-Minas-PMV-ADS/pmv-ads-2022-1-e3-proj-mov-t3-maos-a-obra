@@ -27,12 +27,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 TABELA 01- Historia de Usuario
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                               |                           PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------------------------------------|-------------------------------------------------------------------|
-|Ricardo Souza       |Profissionais de reforma em geral                                 | [CU-001]- Acesso às informações publicas dos colaboradores|
-|Beatriz Menezes     |Profissional com boas recomendaçoe e de confiança                 | [CU-002]- Acesso a relatorios e avaliações pertinentes dos colaboradores|
-|Angela Miranda      |Divulgação de seu trabalho                                        | [CU-003]- criar galeria de fotos para a apresentação e divulgação dos serviços|
-|Marco Nascimento    |Apresentar os trabalho realizados de forma simple e eficiente     | [CU-004]- Criar um portifolio para melhor divulgar seu trabalho|
-|Francisco Dias      |Elabora uma melhor divulgação de seus serviços para novos clientes| [CU-005]- Criar relatorios de avaliação de serviços realizados|
-|Luiz Souza          |Bons profissionais de confiança                                   | [CU-002]- Acesso a relatorios e avaliações pertinentes dos colaboradores|
+|Ricardo Souza       |Profissionais de reforma em geral                                 | [UC-001]- Acesso às informações publicas dos colaboradores|
+|Beatriz Menezes     |Profissional com boas recomendaçoe e de confiança                 | [UC-002]- Acesso a relatorios e avaliações pertinentes dos colaboradores|
+|Angela Miranda      |Divulgação de seu trabalho                                        | [UC-003]- criar galeria de fotos para a apresentação e divulgação dos serviços|
+|Marco Nascimento    |Apresentar os trabalho realizados de forma simple e eficiente     | [UC-004]- Criar um portifolio para melhor divulgar seu trabalho|
+|Francisco Dias      |Elabora uma melhor divulgação de seus serviços para novos clientes| [UC-005]- Criar relatorios de avaliação de serviços realizados|
+|Luiz Souza          |Bons profissionais de confiança                                   | [UC-002]- Acesso a relatorios e avaliações pertinentes dos colaboradores|
 
 Fonte: Elaborado pelos autores (2022).
 </ol>
