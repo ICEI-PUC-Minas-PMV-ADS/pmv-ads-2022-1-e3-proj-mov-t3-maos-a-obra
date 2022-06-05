@@ -1,1 +1,0 @@
-export const BASE_URL = 'https://twenty-ways-sip-45-164-7-176.loca.lt'
