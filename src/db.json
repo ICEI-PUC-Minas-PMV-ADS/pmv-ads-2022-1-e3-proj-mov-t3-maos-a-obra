@@ -1,70 +1,37 @@
 {
   "users": [
     {
-      "email": "robertamotta.133@mail.com",
-      "password": "$2a$10$MmHTO5vYS3/ewl.7I92TMuD7FvXwxgl3ZauTqB1lMSeuxgaZssjUG",
-      "nome": "Roberta Motta Pacheco",
-      "telefone": "346522",
-      "sexo": "Feminino",
-      "profissao": "profissao teste",
-      "cep": "318496",
-      "endereco": "teste endereco",
-      "id": 3
-    },
-    {
-      "email": "robertamotta.13@mail.com",
-      "password": "$2a$10$t9yWArR1JWectvYTib8NdeO4iprGIzLXIa4on0Ck8PUMPMj6Oq84C",
-      "nome": "Roberta Motta",
-      "telefone": "346522",
-      "sexo": "Feminino",
-      "profissao": "profissao teste2",
-      "cep": "318496",
-      "endereco": "teste endereco",
-      "id": 4
-    },
-    {
-      "email": "robertamotta.14@mail.com",
-      "password": "$2a$10$oeBgB718cnHdKTZobsTm9ujOB2HBTasICo/3pnYXQy9KXqbFrSvZW",
-      "nome": "Roberta Motta",
-      "telefone": "346522",
-      "sexo": "Feminino",
-      "profissao": "profissao teste2",
-      "cep": "318496",
-      "endereco": "teste endereco",
-      "id": 5
-    },
-    {
-      "email": "robertamotta.15@mail.com",
-      "password": "$2a$10$HfG/rL945ESydmc5GTBhluQEPjw4hej51kiFAKtn9D5fUP1IF0/Lq",
-      "name": "Roberta Motta",
-      "telefone": "346522",
-      "sexo": "Feminino",
-      "profissao": "profissao teste2",
-      "cep": "318496",
-      "endereco": "teste endereco",
-      "id": 6
-    },
-    {
-      "email": "klebersouza@pucminas.br",
-      "password": "$2a$10$ZMeoqLFaGRj3M.LLMds5LOvvn3a6Tvl2wH8OLI4H2BfYNODaC1Y22",
-      "name": "111",
-      "telefone": "111",
-      "sexo": "111",
-      "profissao": null,
-      "cep": "123",
-      "endereco": "12 ",
-      "id": 7
-    },
-    {
       "email": "email@pucminas.br",
-      "password": "$2a$10$Pk.Z3nTsCepeNKP7njZI8uosNrMDaE4/GM41FzTiwBvX7CUxhcJle",
-      "name": "email@pucminas.b",
-      "telefone": "SenhaPucminas1",
-      "sexo": "1",
+      "password": "$2a$10$CKDxoptpG5tgLDqqn1X7B.Kmlt2.FwGEvTV1K.YxLHFdVyoG6r3eO",
+      "name": "Thainá",
+      "telefone": "SenhaPucmina",
+      "sexo": "D",
       "profissao": null,
-      "cep": "1",
-      "endereco": "1",
-      "id": 8
+      "cep": null,
+      "endereco": null,
+      "id": 4
+    }
+  ],
+  "prestador": [
+    {
+      "email": "prestador2@gmail.com",
+      "name": "Pedro Nascimento",
+      "telefone": "998768549",
+      "sexo": "Masculino",
+      "profissao": "Arquiteto",
+      "cep": "30500226",
+      "endereco": "Centro, Minas Gerais",
+      "id": 2
+    },
+    {
+      "name": "Carlos Nascimento",
+      "email": "prestador2@gmail.com",
+      "telefone": "995555549",
+      "sexo": "Masculino",
+      "profissao": "Engenheiro",
+      "cep": "30500226",
+      "endereco": "Centro, Minas Gerais",
+      "id": 3
     }
   ]
 }
