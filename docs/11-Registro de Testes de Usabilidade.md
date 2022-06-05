@@ -70,18 +70,15 @@ Cadastrar feedBack  |             |         |           |      |
 Heurística (Nielsen)	Notas dos avaliadores	Média	Consenso	Considerações	Melhorias
 </ol>
   
-### Avaliação Dinâmica 
-<ol>
-	
 ### Resultados
 <ol>
 
-|Caso de uso        |	Visibilidade|	Controle| Eficiência|	Erros|
+|Caso de uso        |Visibilidade |Controle | Eficiência| Erros|
 |-------------------|-------------|---------|-----------|------|
-Cadastro Usuario		|             |         |           |      |		
+Cadastro Usuario    | 0           | 0       |4          |5     |		
 Cadastro Fornecedor |             |         |           |      |
 Cadastro Serviço    |             |         |           |      |
-Login			          |             |         |           |      |				
+Login		    | 0           | 0       |4          |5     |				
 Excluir conta       |             |         |           |      |				
 Cadastrar feedBack  |             |         |           |      |	
 </ol>
@@ -103,6 +100,31 @@ Cadastrar feedBack  |             |         |           |      |
 
 ## Relatorios
 <ol>
+	
+### Primeiros Teste
+<ol>
+	Foram iniciados os testes, ja nos primeiro teste forai constado erros grave, conforme, imagens demostrado abaixo.
+	Nas imagens abaixo duas soliciaçõe para realização de teste por pessoas via Whattzap, Wanderley Ferreira e Frederico Alves.
+
+![teste de Usabilidades](img/05-conversa%20Wnaderley.jpeg)
+![teste de Usabilidades](img/06-Conversa%20Fred.jpeg)
+![teste de Usabilidades](img/06.1-%20Conversa%20Fred.jpeg)
+	
+</br>No Primeiro testes o tivemos problemas com a utilização do aplicativo Expo Go, que está com erro durante a inicialzação do mesmo. devido a esse erro optamos por realizar o teste inicialmente através do computador mesmo até que seja solucionado o problema.
+	
+![teste de Usabilidades](img/04-Tela%20erro%20Expo%20Go.jpeg)
+	
+</br>Proxima imagem é a referente ao formulário de teste preenchido, foi analizado inicialmente as telas de login e cadastro e com já no primeiro teste foi encontrado alguns problemas, deveremos solucionar os mesmo antes do prosseguimento do projeto.		
+
+![teste de Usabilidades](img/07-Formulario%20Frederico.jpeg)
+</br> As telas a seguir mostram as telas avaliadas.	
+![teste de Usabilidades](img/01-Tela%20de%20Login.jpeg)
+![teste de Usabilidades](img/02-Tela%20de%20Cadastro.jpeg)
+![teste de Usabilidades](img/03-tela%20de%20cadastro.jpeg)
+</br>Devido a problemas com o Banco de Dados, tivemos erros de cadastro, esta sendo realizado as devidas auterações. 
+![teste de Usabilidades](img/03.1-Tela%20erro%20Cadastro.jpeg)
+	
+</ol>
 	
 </ol>
   
