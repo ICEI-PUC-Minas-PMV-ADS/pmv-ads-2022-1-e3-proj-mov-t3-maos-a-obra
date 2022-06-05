@@ -19,7 +19,6 @@ const Lista = ({route}) => {
   const navigation = useNavigation();
   const isFocused = useIsFocused();
   const {name} = useUser();
-  const tipo = item.tipo;
   const [prestador, setPrestador] = useState([]);
 
   useEffect(() => {
