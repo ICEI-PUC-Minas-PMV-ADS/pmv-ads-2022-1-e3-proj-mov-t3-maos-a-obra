@@ -103,12 +103,7 @@ Cadastrar feedBack  |             |         |           |      |
 	
 ### Primeiros Teste
 <ol>
-	Foram iniciados os testes, ja nos primeiro teste forai constado erros grave, conforme, imagens demostrado abaixo.
-	Nas imagens abaixo duas soliciaçõe para realização de teste por pessoas via Whattzap, Wanderley Ferreira e Frederico Alves.
-
-![teste de Usabilidades](img/05-conversa%20Wnaderley.jpeg)
-![teste de Usabilidades](img/06-Conversa%20Fred.jpeg)
-![teste de Usabilidades](img/06.1-%20Conversa%20Fred.jpeg)
+	Foram iniciados os testes, ja nos primeiro teste foi constado erros graves, conforme, imagem demostrado abaixo.
 	
 </br>No Primeiro testes o tivemos problemas com a utilização do aplicativo Expo Go, que está com erro durante a inicialzação do mesmo. devido a esse erro optamos por realizar o teste inicialmente através do computador mesmo até que seja solucionado o problema.
 	
