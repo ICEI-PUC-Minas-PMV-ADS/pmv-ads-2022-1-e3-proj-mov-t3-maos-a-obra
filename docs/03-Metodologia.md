@@ -79,7 +79,8 @@ As ferramentas que serão empregadas neste na elaboração do projeto serão:
 |Ferramenta de apoio a o desenvolvimento|	Visual Studio|	https://visualstudio.microsoft.com/pt-br/services/github-codespaces/|
 |Projeto de Interface e Wireframes|	Marvel app|	https://marvelapp.com/project/5659252|
 |Gerenciamento do Projeto|	Trello	|https://trello.com/b/LupglzUz/tiaw-template|
-|Ferramenta de BD|	SQL	|https://www.microsoft.com/pt-br/sql-server/sql-server-2019|
-|Hospedagem Site|	Heroku|	https://www.heroku.com/|
+|Ferramenta de BD|	SQLite	|https://www.sqlite.org/index.html|
+|Hospedagem Site|	Snack|	https://snack.expo.dev/|
+|Front-End|	React-Native|	https://reactnative.dev/|
 </ol>
  </ol>
