@@ -171,7 +171,7 @@ Fonte: Elaborado pelos autores (2022).
 
 <ol>
 
-|Requisitos X Casos de uso         |CU-001 |CU-002 |CU-003 |CU-004 |CU-005 |       |
+|Requisitos X Casos de uso         |UC-001 |UC-002 |UC-003 |UC-004 |UC-005 |       |
 |----------------------------------|-------|-------|-------|-------|-------|-------|
 |                                                  Agente Fornecedor               |					
 |RF-001 - Cadastrar conta          |       |       |       |       |       |     		|				
