@@ -31,13 +31,13 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 O protótipos pode ser vizualizado através do seguinte link: https://marvelapp.com/prototype/14hgg084/screen/79338696
  
-> **User Flow**:
+## User Flow
 <ol>
  
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
+![Imagem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/docs/img/userflow.jpg)
 
-Figura 04- User Flow
 
 
 
