@@ -19,4 +19,4 @@ O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do conte
 
 ## Conjunto de Slides (Estrutura)
 
-![Apresentação Slids](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/docs/img/obra feita apresentação final.pptx)
+![Apresentação Slids](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/docs/img/obrafeitaapresentaçãofinal.pptx)
