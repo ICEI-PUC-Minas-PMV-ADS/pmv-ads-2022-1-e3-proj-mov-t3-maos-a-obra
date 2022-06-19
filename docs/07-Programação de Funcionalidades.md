@@ -6,14 +6,28 @@
 ## FUNCIONALIDADE
 <ol>
   
+  ### Cadastro
+  <ol>
+    
+  RF-001- Cadastrar Cliente e Fornecedor
+  * [Codigo fonte tela de Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/app_obra_feita/src/pages/Register.js) 
+  
+  </ol>
+  
+  ### Login
+  <ol>
+    
+  * RF-002- Tela de Acesso a conta de usuarios e dados do mesmo
+  * [Codigo fonte tela de Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/app_obra_feita/src/pages/Login.js)
+  </ol>
+  
   ### Profissionais de reforma em geral
   <ol>
   
-  [UC-001]- Acesso às informações publica dos colaboradores:
+  UC-001- Acesso às informações publica dos colaboradores:
   
   * RF-005- Visualizar profissionais.
-  
-  * ![Visializar Proficionais](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/app_obra_feita/src/pages/Lista.js) 
+  * [Codigo fonte tela de Visializar Profissionais](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/app_obra_feita/src/pages/Lista.js) 
   </ol>
   
 
@@ -23,6 +37,7 @@
   [UC-002]- Acesso a relatórios e avaliações pertinentes dos colaboradores.
    * RF-006- Realizar Feedback.
    * RF-007- Visualizar Feedback.
+   * [Codigo fonte tela de Visializar Feed Back](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/app_obra_feita/src/pages/Lista.js) 
   </ol>
 
   ### Divulgação de seu trabalho
@@ -31,6 +46,7 @@
   [UC-003]- criar galeria de fotos para a apresentação e divulgação dos serviços.
   * RF-005- Visualizar os seus dados
   * RF-009 Cadastro de serviço
+  * [Codigo fonte tela de Visializar Dados Serviços](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/app_obra_feita/src/pages/Inicial.js)
 </ol>
   
   ### Apresentar os trabalhos realizados de forma simples e eficiente.
@@ -40,6 +56,7 @@
   * RF-005- Visualizar os seus dados
   * RF-007- Alterar dados
   * RF-009 Cadastro de serviço
+  * [Codigo fonte tela de Visializar Dados Serviços Realizados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/app_obra_feita/src/pages/Inicial.js)
 </ol>
   
   ### Elabora uma melhor divulgação de seus serviços para novos clientes
@@ -49,7 +66,7 @@
   * RF-005- Visualizar os seus dados
   * RF-007- Alterar dados
   * RF-009 Cadastro de serviço
-
+  * [Codigo fonte tela de Visializar Dados Prestador de Serviço](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e3-proj-mov-t3-maos-a-obra/blob/main/app_obra_feita/src/pages/Prestador.js)
 </ol>
 </ol> 
 </ol>
