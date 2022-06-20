@@ -120,12 +120,31 @@ Cadastrar feedBack  |             |         |           |      |
 ![teste de Usabilidades](img/03.1-Tela%20erro%20Cadastro.jpeg)
 	
 </ol>
+### 2º Rodada de teste
+<ol>
+	Após a solução dos problemas enconrtardos nos primeiros testes foram realizados novos testes, tendo como resultado os seguintes dados, levando em consideração os mesmos requisitos, situações e regras do primeiro teste.
+	
+### Resultados
+<ol>
+
+|Caso de uso        |Visibilidade |Controle | Eficiência| Erros|
+|-------------------|-------------|---------|-----------|------|
+Cadastro Usuario    | 0,0,0       | 0,0,0   |0,0,0      |0,0,0 |		
+Cadastro Fornecedor || 0,0,0      | 0,0,0   |0,0,0      |0,0,0 |
+Cadastro Serviço    | 0,0,0       | 0,0,0   |0,0,0      |0,0,0 |
+Login		    | 0,0,0       | 0,0,0   |0,0,0      |0,0,0 |				
+Excluir conta       | 0,0,0       | 0,0,0   |0,0,0      |0,0,0 |				
+Login Incorreto     | 0,0,0       | 0,0,0   |0,0,0      |0,0,0 |
+	obs: Ao se fazer o login incorreto teremos um falso positivo de erros, o que é bom para o sistema, pois o mesmo estrá demonstrando que logins não cadastrados não serão validados. 
+</ol>
 	
 </ol>
   
 ### Conclusão	
 <ol>	
-
+	o sistema apresntado demosntrou estabilidade, e desepenho eficaz diante dos testes e condiçoes estabelecidas, sendo assim e possivel que seja liberado para a população assim que nosos testes sejam realizados  
+	
+	
 </ol>	
 	
 	
