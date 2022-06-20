@@ -135,7 +135,10 @@ Cadastro Serviço    | 0,0,0       | 0,0,0   |0,0,0      |0,0,0 |
 Login		    | 0,0,0       | 0,0,0   |0,0,0      |0,0,0 |				
 Excluir conta       | 0,0,0       | 0,0,0   |0,0,0      |0,0,0 |				
 Login Incorreto     | 0,0,0       | 0,0,0   |0,0,0      |0,0,0 |
+<ol>
 	obs: Ao se fazer o login incorreto teremos um falso positivo de erros, o que é bom para o sistema, pois o mesmo estrá demonstrando que logins não cadastrados não serão validados. 
+
+</ol>
 </ol>
 	
 </ol>
